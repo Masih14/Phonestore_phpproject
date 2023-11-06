@@ -1,0 +1,13 @@
+body {    
+        background-image: url('background.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* Additional styling properties */
+    }
+.h2color{
+    background-color: white;
+    display: inline;
+}
+.col-sm-3{
+    background-color: white;
+}
